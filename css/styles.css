@@ -1,0 +1,59 @@
+
+* {
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    background-size: cover;
+    font-family: 'Radjani', 'roboto' ,'IBM Plex Sans Arabic';
+    font-weight: 800;
+  }
+
+  
+  #quote{
+    font-family: 'Radjani', 'roboto' ,'IBM Plex Sans Arabic';
+      font-size: 6vmin;
+      text-align: center;
+      margin: 2rem 3rem 0;
+      mix-blend-mode: darken;
+      color:gray;
+      font-weight: 100;
+      top: 10%;
+    }
+  
+  .first{
+    font-family: 'Radjani', 'roboto' ,'IBM Plex Sans Arabic';
+    margin-top: 4%;
+    color:#00264D;
+    position:static; 
+    font-weight: 600
+  }
+  
+
+  .head1{
+    font-family: 'Radjani', 'roboto' ,'IBM Plex Sans Arabic';
+    margin-left: 40%;
+    position: fixed;
+  }
+  
+  header{
+    position: fixed;
+    margin-top: 12px;
+    margin-left: 8%;
+  }
+
+  #contact2{
+    background-color:#000;
+    margin-top: 20%;
+    font-weight: 1000;
+    color: white;
+    font-size: 30px;
+  }
+  #chat4{
+    font-weight: 600;
+    color: white;
+    margin-top: 50%;
+    margin-bottom: 30%;
+    font-size: 30px;
+    font-family: 'Radjani', 'roboto' ,'IBM Plex Sans Arabic';
+  }
